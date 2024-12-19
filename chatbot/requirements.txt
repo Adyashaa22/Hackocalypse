@@ -1,0 +1,6 @@
+langchain_core
+
+langserve
+flask
+langchain_google_genai
+langgraph
